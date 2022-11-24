@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asif-Munshi
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Games and life
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Software Engineering at Daffodil International University
+- 💞️ I’m looking to collaborate on MERN and React Projects
 - 📫 Email: asifmunshe2978@gmail.com
 
 <!---
