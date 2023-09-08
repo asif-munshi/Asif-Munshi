@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Munshe</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 
-- 💬 Ask me about **ReactJS, NextJS**
+- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB.**
 
 - 📫 How to reach me **asifmunshe2978@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
