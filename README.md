@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asif Munshe</h1>
+<h1 align="center">Hi 👋, I'm Asif Munshi</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB.**
